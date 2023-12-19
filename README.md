@@ -1,4 +1,4 @@
-# AlgorithmsForDataScience
+# Algorithms For Data Science
 
 This repository includes the programming assignments from CSOR4246 Algorithms for Data Science Course at Columbia University. 
 
